@@ -1,4 +1,4 @@
-Prankgen WebApp
+# Prankgen WebApp
 
 ## Description
 Create online pranks for your friends and monitor them using the prank CMS. The project use:
